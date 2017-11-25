@@ -8,14 +8,16 @@
 .username{color: #6c6c6c}
 .header{height: 100px;}
 
-.infol{height: 350px;float: left;padding-left: 100px;}
-.infor{width: 600px;float: left;height: 350px;padding-left: 20px;}
+/*.Info{margin: 20px auto;}*/
+.Info{wigth:auto;height: 500px;}
+.infol{wigth:50%;height: 430px;float: left; padding-left: 150px;}
+.infor{width: 50%;float: left;padding-left: 20px;}
 .name{color: #3c3c3c;width: 500px;padding-left: 30px;padding-top: 0px;}
 .zhushi{color: #3C3C3C;width: 500px;padding-left: 10px;}
 .price_txt{color: #6c6c6c;font-size: 20px;padding-left: 10px;}
-.huobi{color: #f40;font-size: 40px;}
-.price_num{color: #FF4400;font-size: 40px;}
-.xinghao{color: #6C6C6C;font-size: 20px;padding-left: 10px;}
+.huobi{color: #f40;font-size: 30px;}
+.price_num{color: #FF4400;font-size: 30px;}
+.xinghao{color: #6C6C6C;font-size: 20px;padding-left: 10px;padding-top: 15px;}
 .item{list-style: none;width: 500px;}
 .item li{float: left;padding-left: 30px;}
 .button{padding-left: 10px;padding-top: 30px;}
@@ -23,3 +25,9 @@
 .buy{float: left;width: 178px;height: 38px;font-size: 16px;background-color: #FFEDED;color: #ff0036;text-align: center;border:1px solid #ff0036;overflow: hidden;position: relative;line-height: 38px;}
 .farm_add2car{padding-left: 200px;}
 .add2car{float: left;width: 178px;height: 38px;background-color: #FF0036;color: #FFFFFF;text-align: center; border:1px solid #ff0036;line-height: 38px;}
+
+.South{wigth:100%;height: 800px;}
+.South_item{padding-left: 300px;}
+.South_item li{list-style:none;float:left;padding-left:20px;}
+
+.South_xiangqing{font-weight:700;height:100%;line-height:46px;color: #FF0036;border-left: 1px solid #CFBFC1;border-right: 1px solid #CFBFC1;text-decoration: none;padding: 0 20px;}
