@@ -2,14 +2,17 @@
 /* CSS Document */
 
 .Top{background: #1D01E3}
+.TL{background: #1D01E3}
+.TL li{float: left;list-style: none;}
+.TR li{float: right;list-style: none;}
+/*
 .North{background-color: #F4C52C}
 .North{color: red}
 .TR{float: left}
-#title{}
 .Center{color: red}
 .Center{text-align: center}
 .Center{background: #008000}
 #CLeft{text-align:left}
 .miaoshu{text-align: right}
 #CRight{text-align: right}
-.South{background: #FF0000}
+.South{background: #FF0000}*/
